@@ -1,0 +1,13 @@
+C:\Users\PC0\Desktop\filmArşivim\filmArşivim\bin\Debug\filmArşivim.exe.config
+C:\Users\PC0\Desktop\filmArşivim\filmArşivim\bin\Debug\filmArşivim.exe
+C:\Users\PC0\Desktop\filmArşivim\filmArşivim\bin\Debug\filmArşivim.pdb
+C:\Users\PC0\Desktop\filmArşivim\filmArşivim\bin\Debug\MySql.Data.dll
+C:\Users\PC0\Desktop\filmArşivim\filmArşivim\obj\Debug\filmArşivim.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\filmArşivim\filmArşivim\obj\Debug\filmArşivim.Form1.resources
+C:\Users\PC0\Desktop\filmArşivim\filmArşivim\obj\Debug\filmArşivim.Properties.Resources.resources
+C:\Users\PC0\Desktop\filmArşivim\filmArşivim\obj\Debug\filmArşivim.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\filmArşivim\filmArşivim\obj\Debug\filmArşivim.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\filmArşivim\filmArşivim\obj\Debug\filmArşivim.csproj.CopyComplete
+C:\Users\PC0\Desktop\filmArşivim\filmArşivim\obj\Debug\filmArşivim.exe
+C:\Users\PC0\Desktop\filmArşivim\filmArşivim\obj\Debug\filmArşivim.pdb
+C:\Users\PC0\Desktop\filmArşivim\filmArşivim\obj\Debug\filmArşivim.FormElestiriler.resources
